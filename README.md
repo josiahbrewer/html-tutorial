@@ -9,9 +9,9 @@ http://www.goodellgroup.com/tutorial/
 Why don't you go there and give it a look through. I think you'll enjoy it!
 
 #Requirements
-- Sourcetree
-- Atom
-- Chrome
+- [Sourcetree](http://www.sourcetreeapp.com/)
+- [Atom](http://atom.io/)
+- [Chrome](http://www.google.com/chrome)
 
 #Lessons
 - Week One: GitHub Tutorial (One-on-One learning)
