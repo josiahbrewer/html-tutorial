@@ -14,4 +14,4 @@ In this lesson we are going to learn the very basics of using git with GitHub an
 9. You are finished.
 
 #Extra Credit
-1. Repeat everything above, but call the file `DadIsBest.txt` and type in that file `Dad is best.` instead.
+1. Own your own, repeat everything above, but call the file `DadIsBest.txt` and type in that file `Dad is best.` instead.
