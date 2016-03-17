@@ -1,0 +1,16 @@
+#Lessons
+- Week One: GitHub Tutorial (One-on-One learning)
+- Week Two: Introduction & Chapter 1
+- Week Three: Chapter 2
+- Week Four: Chapter 3
+- Week Five: Chapter 4
+- Week Six: Chapter 5
+- Week Seven: Chapter 6
+- Week Eight: Chapter 7
+- Week Nine: Chapter 8
+- Week Ten: Chapter 9
+- Week Eleven: Chapter 10
+- Week Twelve: Chapter 11
+- Week Thirteen: Chapter 12
+- Week Fourteen: Review
+- Week Fifteen: The BIG Test
