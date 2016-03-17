@@ -9,12 +9,12 @@ http://www.goodellgroup.com/tutorial/
 Why don't you go there and give it a look through. I think you'll enjoy it!
 
 #Requirements
-Sourcetree
-Atom
-Chrome
+- Sourcetree
+- Atom
+- Chrome
 
 #Lessons
-- Week One: GitHub Tutorial (One-on-One learning) 
+- Week One: GitHub Tutorial (One-on-One learning)
 - Week Two: Introduction & Chapter 1
 - Week Three: Chapter 2
 - Week Four: Chapter 3
